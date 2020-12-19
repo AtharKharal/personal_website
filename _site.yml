@@ -1,0 +1,33 @@
+name: "MAK"
+output_dir: docs
+navbar:
+  title: "M A K"
+  left:
+    - text: "Statement"
+      href: statement.html
+    - text: "Data Cleaning"
+      href: cleaning.html
+    - text: "Visualizations"
+      href: visuals.html
+    - text: "Model Building"
+      href: model.html
+    - text: "R Solution"
+      href: rsol.html
+  right:
+  - icon: fa-github
+    href: https://github.com/AtharKharal
+  - icon: fa-envelope-square
+    href: mailto:atharkharal@gmail.com
+output:
+    # prettydoc::html_pretty:
+    #   theme: tactile
+    #   highlight: github
+    html_document:
+      theme: united
+      highlight: textmate
+      toc: yes
+      toc_float:
+        collapsed: no
+    # include:
+    #   after_body: footer.html
+    # css: styles.css
