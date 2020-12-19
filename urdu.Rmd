@@ -1,0 +1,46 @@
+---
+title: "اردو ادب"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+h1 {
+  direction: rtl;
+  font-family: Jameel Noori Nastaleeq;
+  color: red;
+}
+h2 {
+  direction: rtl;
+  font-family: Jameel Noori Nastaleeq;
+  color: red;
+}
+h3 {
+  direction: rtl;
+}
+p {
+  direction: rtl;
+  font-family: Jameel Noori Nastaleeq;
+  font-size: 30px;
+}
+</style>
+
+## پسندیدہ اشعار
+وہ بہاریں جو ترے ساتھ مجھے دیکھ گئیں  
+
+کیا کہیں گی اگر آکر مجھے تنہا دیکھا  
+
+## انتخاب مرزا غالب
+
+قرض کی پیتے تھے مے لیکن سمجھتے تھے کہ ہاں  
+
+رنگ لاوے گی ہماری فاقہ مستی ایک دن  
+
+  
+  
+  
+
+

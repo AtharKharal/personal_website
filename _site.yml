@@ -1,18 +1,18 @@
 name: "MAK"
 output_dir: docs
 navbar:
-  title: "M A K"
+  title: "MAK"
   left:
-    - text: "Statement"
-      href: statement.html
-    - text: "Data Cleaning"
-      href: cleaning.html
-    - text: "Visualizations"
-      href: visuals.html
-    - text: "Model Building"
-      href: model.html
-    - text: "R Solution"
-      href: rsol.html
+    - text: "Personal"
+      href: personal.html
+    - text: "Hobbies"
+      href: hobbies.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Talks"
+      href: talks.html
+    - text: "اردو ادب"
+      href: urdu.html
   right:
   - icon: fa-github
     href: https://github.com/AtharKharal
