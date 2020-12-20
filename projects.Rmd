@@ -1,0 +1,30 @@
+---
+title: "Projects"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Undergrad Engineering Projects  
+1.	Development of an Artificial Neural Network to Estimate Nozzle Guide Vane Exit Area of Aircraft Engine (ATAR 09c) Test Bed 
+A custom neural network was developed using MATLAB, for a precision critical but ill posed problem. The neural net replaced a faulty computer assembly at Mirage Rebuilt Factory of Pakistan Air Force at Kamra. Additional work was done by interfacing the neural output with industrial machines. The project was adjudged by the faculty of College of Aeronautical Engineering (NUST) to be the best and was awarded Best Project Gold Medal. Results of this project were also presented as research paper at a conference [1]. (NUST/CAE/AE/WAQAS_PMA733027)
+2.	Neuro Computation Based Inverse Problem of Airfoil Geometry Determination
+Determining the geometry of an aerodynamic object which satisfies pre-stated distribution of the forces of lift and drag at different angles of attack is the inverse problem in CFD. This project developed a neural net for this problem for NACA airfoil series. Resulting geometries have been cross checked using a total Navier Stokes solver and very accurate results have been found. The project was graded as 2nd best by the faculty of CAE. (NUST/CAE/AE/SAMEER)
+3.	Development of Neuro-Fuzzy Inference System for Pressure Distribution (Cp) Around an Airfoil
+A neuro-fuzzy inference system was developed to estimate the wind pressure round an aerodynamic object. The system required extremely small time for its computation whereas the same computation using Navier-Stokes equations required 4 to 5 computing hours. Our developed system produced 64 fuzzy rules as well. Study of these rules for further analytical extension in CFD is now underway. The work was graded as the 2nd best by the faculty. (NUST/CAE/AE/NAUMAN_985517)
+4.	Simulation and Parameter Sensitivity Analysis of an Air Defense System
+Mathematical model has been developed and simulated on computer using statistical software SPSS. The model is moderately complicated as it takes the direction of aircraft, wind speed and visibility into account. Data of one million encounters/interceptions has been simulated to carry out statistical analysis. Monte-Carlo techniques have been used extensively for simulations. (NUST/CAE/AE/Umair_985535)
+5.	Target Identification Using Neural Networks
+This project is the first phase of a full-fledged target identification system to be mounted on a drone. The project successfully achieved its goals of development of a neural net to identify objects and then its integration with hardware. Work may further be extended in other aspects like miniaturization of apparatus and real time processing. (NUST/CAE/AvE/Akhtar)
+6.	A Fuzzy Inference Engine in C++
+A multipurpose Fuzzy Logic based inference engine has been developed. Written in C++ it can be embedded in other applications, for example in a PIC microcontroller to fabricate a neuro-fuzzy chip. This engine has already been used by another project to find the pressure distribution around airfoils. (NUST/CAE/AE/Kashif_985514)
+7.	To Develop a Computationally Intelligent Expert System for System-Level Design Parameterization of Sub-Orbital Systems This is an ongoing project.   
+
+## Data Science Projects (selected list)  
+1.	Data dashboards for executive decision making at Flying Training, Pakistan Air Force (Nov’15 – Jul’19) 
+2.	Development and implementation of Data Collection, Cleaning and Storage policy at Flying Training facility of Pakistan Air Force
+3.	Predictive model development for variable geometry determination Micro Air Vehicles’ aerofoils. (Jan ’12 – Mar ’13)
+4.	Aviation Churn model for prediction of suspensions from flying training (Apr ’17 – Sep ’17)
+5.	Personnel segmentation for branch allocation after suspension from flying training (Nov’17 – Jan’18)

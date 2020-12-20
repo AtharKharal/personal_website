@@ -1,0 +1,21 @@
+---
+title: "Seminars and Talks"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1.	A History of Mathematics - I, II, III, Centre for Advanced Studies in Pure and Applied Mathematics (CASPAM), Bahauddin Zakariya University, Multan on 10,17 and 24 March, 1994.
+2.	A first introduction to the Philosophy of Mathematics, Centre for Advanced Studies in Pure and Applied Mathematics (CASPAM), Bahauddin Zakariya University, Multan on 14 November, 1995.
+3.	Relative Grading System at CAE, seminar given at NUST Conference on Grading Systems, EME Campus NUST, Rawalpindi, Oct., 2002.
+4.	Vector Spaces of Human Eye’s Colour System, Centre for Advanced Studies in Pure and Applied Mathematics (CASPAM), Bahauddin Zakariya University, Multan on 15 Nov, 2004.
+5.	Fibonacci Numbers, Centre for Advanced Studies in Pure and Applied Mathematics (CASPAM), Bahauddin Zakariya University, Multan on 8 August 2005.
+6.	Use of Scientific Workplace for Academic and Research Communication, College of Aeronautical Engineering (NUST), 18 Dec 2009.
+7.	Anti-plagiarism at NUST and use of Turnitin® Anti-plagiarism Online Service at CAE, College of Aeronautical Engineering (NUST), 17 April 2010.
+8.	Data Science – the new frontier, PAF Academy Auditorium, 6 June 2011
+9.	Analysing Flight Safety Data for Optimum Flying Effort, PAF College of Flying Training 03 January 2012
+10.	Adaptive Neuro-Fuzzy Systems for AutoPilot Ventures, Air University, Islamabad, 11 April 2013
+11.	Data mining techniques for Software Defined Radios and their spectrum analysis, College of Aeronautical Engineering (NUST), Saeed Auditorium, 09 September 2015
+12.	Big Data, Streaming Data and IoT: a futuristic perspective for Pakistan Air Force, Academy Auditorium, Risalpur, January 2019

@@ -26,6 +26,10 @@ p {
   font-family: Jameel Noori Nastaleeq;
   font-size: 30px;
 }
+
+li {
+  font-family: Jameel Noori Nastaleeq;
+}
 </style>
 
 ## پسندیدہ اشعار

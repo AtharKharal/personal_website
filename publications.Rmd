@@ -1,0 +1,52 @@
+---
+title: "Research Works"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Currently Submitted (04)
+1. 	A. Kharal, “Explainable Artificial Intelligence Based Fault Diagnosis and Insight Harvesting for Steel Plates Manufacturing”, (Submitted, Preprint available on arxiv.org).  
+2. 	A. Kharal, "A Generalized Mapping for Multiset Rewriting Systems" (Submitted, Preprint available on arxiv.org).  
+3. 	A. Kharal, "An Invitation to the Topological Study of Multisets" (Submitted).   
+4. 	A. Kharal, "Modeling Multiset Rewriting," (Submitted).   
+
+## ISI Indexed Journals (09)  
+5. 	A. Kharal and A. Saleem, "Neural Networks Based Airfoil Generation for a Given Cp Using Bezier-PARSEC Parameterization," Aerospace Science and Technology, 2012.   
+6. 	A. Kharal, "A neutrosophic multicriteria decision making method," New Mathematics & Natural Computation, vol. 10, no. 2, pp. 143-162, 2014.  
+7. 	A. Kharal, "Distance and similarity measures for soft sets," New Mathematics and Natural Computation, vol. 6, no. 3, pp. 321-334, 2010.   
+8. 	A. Kharal and B. Ahmad, "Mappings on soft classes," New Mathematics and Natural Computation, vol. 7, no. 3, pp. 1-11, 2011.   
+9. 	A. Kharal, "Homeopathic drug selection using intuitionistic fuzzy sets," Homeopathy (IF 0.83), vol. 98, no. -, pp. 35-39, 2009.   
+10. A. Kharal and B. Ahmad, "Fuzzy boundary and fuzzy semiboundary," Advances in Fuzzy Systems, vol. 2008, no. 1, p. 9 pages, 2008.   
+11. B. Ahmad and A. Kharal, "On fuzzy soft sets," Advances in Fuzzy Systems, vol. 2008, no. 1, p. 6 pages, 2008.   
+12. A. Kharal and B. Ahmad, "Mappings on fuzzy soft classes," Advances in Fuzzy Systems, p. 6 pages, 2009.   
+13. B. Ahmad and A. Kharal, "Fuzzy sets, fuzzy s-open and s-closed mappings," Advances in Fuzzy Systems, vol. 2009, no. 1, p. 5 pges, 2009.   
+
+## Non-ISI Journals (11)  
+14. A. Kharal, "Soft approximations and uni-int decision making," The Scientific World Journal, vol. 2014, no. 1, p. 7 pages, 2014.   
+15. A. Kharal, "A Study of Frontier and Semi-frontier in Intuitionistic Fuzzy Topological Spaces," The Scientific World Journal, 2014.   
+16. F. Zafar, N. Hussain, Z. Fatimah and A. Kharal, "Optimal Sixteenth order Convergent Method Based on Quasi-Hermite Interpolation for Computing Roots," The Scientific World Journal, vol. 2014, no. 1, 2014.   
+17. B. Ahmad and A. Kharal, "On some fuzzy mappings," Journal of Fuzzy Mathematics, vol. 16, no. 1, pp. 1-13, 2008.   
+18. A. Kharal and B. Ahmad, "On some fuzzy mappings - II," Journal of Fuzzy Mathematics, vol. 18, no. 1, pp. 245-256, 2010.   
+19.	A. Kharal and B. Ahmad, "Fuzzy a-semicontinuous mappings," Journal of Fuzzy Mathematics, vol. 20, no. 1, pp. 71-82, 2012.   
+20. A. Kharal and B. Ahmad, "Fuzzy \alpha\-continuous Mappings," The Journal of Fuzzy Mathematics, vol. 21, no. 4, pp. 831-840, 2013.   
+21. A. Kharal, "Automated medical diagnosis using neutrosophic sets," The Journal of Fuzzy Mathematics, 2014.   
+22. A. Kharal, "An application of neutrosophic sets in medical diagnosis," Critical Reviews, vol. 2012, no. 1, p. 6 pages, 2012.   
+23. B. Ahmad and A. Kharal, "Fuzzy almost continuous functions," International Journal of Contemporary Mathematical Sciences, vol. 3, no. 34, pp. 1665-1677, 2008.  
+24. A. Kharal, "Pattern Recognition in Multisets," Critical Review, vol. 2014, no. 1, 2014.   
+Conference Papers (06)  
+
+## Confernce Papers (06)  
+25. S. W, A. Kharal, A. R and S. A, "Comparison of ACO and GA techniques to generate neural network based Bezier-PARSEC parameterized airfoil," in 11th International Conference on Natural Computation (ICNC), Zakynthos Island, Greece, 2015.   
+26. A. Kharal, I. Shahid and M. Bashir, "Neural network based antenna analysis using genetically optimized Bezier parameterization," in 13th International Bhurban Conference on Applied Sciences and Technology (IBCAST), Islamabad, 2016.   
+27. A. Kharal and W. Arif, "An application of artificial neural network to estimate blanking plate assembly behavior of ATAR09c engine test bed," in 4th Islamic Countries Statistics Conference 2001, Bahrain, UAE, 2001.   
+28. A. Kharal, "An application of intuitionistic fuzzy soft sets in financial diagnosis of firms," in Proc. 4th World Conference on 21st Century Mathematics 2009, Lahore, Pakistan, 2009.   
+29. A. Kharal, "Philosophic prospects of fuzzy mathematics," in Proceedings of All Pakistan Mathematical Conference, Govt College University, Faisalabad, Pakistan, March 1996.   
+30. A. Kharal, "Intuitionistic Fuzzy Semi Continuous Mappings," in First CASPAM Conference in Mathematics, BZU,, Multan, Pakistan, 2009.   
+
+## In-Preparation (03)  
+31.	A. Kharal, "A Data Scientist View of Kent Repertory"   
+32.	P. Marques, "Geometry Determination of Variable Geometry UAVs and MAVs," in Unmanned Aircraft Aerodynamics and Flight Stability, John Wiley & Sons Inc.   
+33.	A. Kharal, "Predicting suicide attacks: a fuzzy soft set approach," Archive Preprint  

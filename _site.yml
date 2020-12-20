@@ -5,12 +5,12 @@ navbar:
   left:
     - text: "Personal"
       href: personal.html
-    - text: "Hobbies"
-      href: hobbies.html
     - text: "Publications"
       href: publications.html
     - text: "Talks"
       href: talks.html
+    - text: "Projects"
+      href: projects.html
     - text: "اردو ادب"
       href: urdu.html
   right:
