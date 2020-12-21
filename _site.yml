@@ -24,7 +24,7 @@ output:
     #   highlight: github
     html_document:
       theme: united
-      highlight: textmate
+      highlight: breezedark
       toc: yes
       toc_float:
         collapsed: no

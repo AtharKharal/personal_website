@@ -26,7 +26,7 @@ output:
 <div class="rt_col">
   <br>
   <h1 style="font-family: Palace Script MT; font-size: 60; color: black">Life is beautiful only for two things; discovering mathematics and teaching mathematics.</h1>
-  <i style="float: right;">  Siméon Denis Poisson</i>
+  <i style="float: right;color: black">  Siméon Denis Poisson</i>
   <br>
   <hr>
   
@@ -45,7 +45,7 @@ output:
       margin-left: 40px;
   }
   .links{
-      margin-left: 80px;
+      margin-left: 60px;
   }
   .rt_col{
       margin-left: 300px;
