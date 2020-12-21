@@ -11,7 +11,7 @@
 
 
 
-<title>index.utf8</title>
+<title>personal.utf8</title>
 
 <script src="site_libs/header-attrs-2.5.3/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -20,7 +20,12 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
 <script src="site_libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
@@ -35,6 +40,21 @@
   ul.task-list{list-style: none;}
     </style>
 
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
 
 
 
@@ -245,6 +265,75 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
 
 </head>
 
@@ -252,6 +341,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -310,44 +409,54 @@ $(document).ready(function () {
 </div>
 
 
-<div class="lft_col">
-<img class="mypic" src="athar_self.PNG" alt="">
-<h3 class="subtitle">
-Dr. Muhammad Athar Kharal
-</h3>
-<p><a class="links" href="https://github.com/AtharKharal"> <span class="fa fa-github fa-lg"></span> </a> <a class="links" href="https://pk.linkedin.com/in/atharkharal"> <span class="fa fa-linkedin fa-lg"></span> </a> <a class="links" href="mailto:atharkharal@gmail.com"> <span class="fa fa-envelope-square fa-lg"></span> </a> <a class="links" href="https://scholar.google.com.pk/citations?user=tMCVzUQAAAAJ&amp;hl=en" alt="Google Scholar" > <span class="fa fa-graduation-cap fa-lg"></span> </a></p>
+<div id="bio" class="section level2">
+<h2>Bio</h2>
+<p>Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar.</p>
+<p>Click Insert and then choose the elements you want from the different galleries. Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme. Save time in Word with new buttons that show up where you need them.</p>
 </div>
-<div class="rt_col">
-<br>
-<h1 style="font-family: Palace Script MT; font-size: 60; color: black">
-Life is beautiful only for two things; discovering mathematics and teaching mathematics.
-</h1>
-<i style="float: right;"> Siméon Denis Poisson</i> <br>
-<hr>
+<div id="hobbies" class="section level2">
+<h2>Hobbies</h2>
+<ol style="list-style-type: decimal">
+<li>Ammature Astronomy<br />
+</li>
+<li>Book Reading<br />
+</li>
+<li>Swimming<br />
+</li>
+<li>Travelling</li>
+</ol>
 </div>
-<style>
-  .lft_col{
-      position: absolute;
-      top: 15%;
-      left: 3%;
-  }
-  .mypic{
-      border-radius: 50%;
-      height: 400px;
-    }
-  .subtitle{
-      margin-left: 40px;
-  }
-  .links{
-      margin-left: 80px;
-  }
-  .rt_col{
-      margin-left: 300px;
-  }
-</style>
+<div id="favourite-authors" class="section level2">
+<h2>Favourite Authors</h2>
+<ol style="list-style-type: decimal">
+<li>Bertrand Russell<br />
+</li>
+<li>Will Durant<br />
+</li>
+<li>Morris Kline</li>
+</ol>
+</div>
+<div id="favourite-books" class="section level2">
+<h2>Favourite Books</h2>
+<ol style="list-style-type: decimal">
+<li>Sceptical Essays<br />
+</li>
+<li>Mysticism and Logic<br />
+</li>
+<li>Mathematical Thought from Ancient to Modern Times<br />
+</li>
+<li>ادب کلچر اور مسائل از ڈاکٹر جمیل جالبی<br />
+</li>
+<li>شائد، جون ایلیا<br />
+</li>
+<li>A History of Mathematics by Carl B. Boyer</li>
+</ol>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -380,6 +489,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

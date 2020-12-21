@@ -19,7 +19,7 @@ output:
   <a class="links" href="mailto:atharkharal@gmail.com">
     <span class="fa fa-envelope-square fa-lg"></span>
   </a>
-  <a class="links" href="https://scholar.google.com.pk/citations?user=tMCVzUQAAAAJ&amp;hl=en" alt="Google Scholar">
+  <a class="links" href="https://scholar.google.com.pk/citations?user=tMCVzUQAAAAJ&amp;hl=en" alt="Google Scholar" >
     <span class="fa fa-graduation-cap fa-lg"></span>
   </a>  
 </div>
