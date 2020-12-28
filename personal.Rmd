@@ -7,10 +7,19 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Bio  
-Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar.  
+## Education  
 
-Click Insert and then choose the elements you want from the different galleries. Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme. Save time in Word with new buttons that show up where you need them.  
+- PhD Mathematics (2013) specialized in Fuzzy Topologies  
+- MSc Mathematics (1995) specialized in Pure Mathematics
+- BSc Mathematics and Statistics (1993)  
+- Intermediate Mathematics, Statistics, Economics (1991)  
+
+## Work Experience  
+
+-	Wing Commander, Registrar & Data Custodian, College of Flying Training, Pakistan Air Force, Nov 15 – Jul 20   
+-	Squadron Leader, Head Mathematics & Data Analytics Division, College of Aeronautical Engineering, Pakistan Air Force, Sept 2009 – Nov 2015  
+-	Flight Lieutenant, College of Aeronautical Engineering, Pakistan Air Force, 1999-2004  
+- Flight Lieutenant, PTTS Kohat, Pakistan Air Force, 1998-1999  
 
 
 ## Hobbies  
